@@ -8,4 +8,5 @@ end
 
 def loop_message_n_times(message,number)
   5.times do message
+    puts message
   end

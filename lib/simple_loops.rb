@@ -18,6 +18,4 @@ def output_array(array)
     puts array[counter]
     counter+=1
   end
-
   end
-end

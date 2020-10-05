@@ -19,3 +19,10 @@ def output_array(array)
     counter+=1
   end
   end
+
+def return_string_array(array)
+  count=0
+  while count < array.legth do
+    count +=1
+  end
+end

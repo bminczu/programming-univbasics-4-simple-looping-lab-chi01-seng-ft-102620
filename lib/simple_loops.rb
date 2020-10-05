@@ -7,6 +7,6 @@ puts message
 end
 
 def loop_message_n_times(message,number)
-  number.times do
+  5.times do
     puts message
   end
